@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Yuvajana Arts and sports club Amayur
+          Yuvajana Arts and Sports Club : Amayur
         </p>
         
       </header>
